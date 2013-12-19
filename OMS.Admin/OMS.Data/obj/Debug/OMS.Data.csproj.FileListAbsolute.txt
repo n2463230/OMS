@@ -1,0 +1,8 @@
+E:\Nisarg Shah\Projects\Code\OMS.Admin\OMS.Data\bin\Debug\OMS.Data.dll
+E:\Nisarg Shah\Projects\Code\OMS.Admin\OMS.Data\bin\Debug\OMS.Data.pdb
+E:\Nisarg Shah\Projects\Code\OMS.Admin\OMS.Data\obj\Debug\OMS.Data.dll
+E:\Nisarg Shah\Projects\Code\OMS.Admin\OMS.Data\obj\Debug\OMS.Data.pdb
+E:\Nisarg Shah\Projects\Code\OMS.Admin\OMS.Data\bin\Debug\OMS.Data.dll.config
+E:\Nisarg Shah\Projects\Code\OMS.Admin\OMS.Data\bin\Debug\OMS.Core.dll
+E:\Nisarg Shah\Projects\Code\OMS.Admin\OMS.Data\bin\Debug\OMS.Core.pdb
+E:\Nisarg Shah\Projects\Code\OMS.Admin\OMS.Data\obj\Debug\OMS.Data.csprojResolveAssemblyReference.cache

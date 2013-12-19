@@ -1,0 +1,8 @@
+<Modules>
+  <Module PersistentId="15A1D71E-78B2-4AFF-94CE-5FCD0E8B99C8" ModuleId="OMS.Admin" />
+  <Module PersistentId="97143597-13D1-4686-8274-97EEB4926E79" ModuleId="OMS.Data" />
+  <Module PersistentId="7DB32CC2-4F7D-4E59-92C4-ECB191F4A6B2" ModuleId="OMS.Core" />
+  <Module PersistentId="CD8AFB06-7AE4-42C3-B4CF-12C485272E31" ModuleId="OMS.BLL" />
+  <Module PersistentId="F970D3FE-3CC7-4867-8B09-9E961F173CFE" ModuleId="OMS.Store" />
+  <Module PersistentId="System.Web.Mvc, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" ModuleId="System.Web.Mvc" />
+</Modules>

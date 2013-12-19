@@ -1,0 +1,294 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="15A1D71E-78B2-4AFF-94CE-5FCD0E8B99C8/d:Views/d:Shared/f:Error.cshtml" caret="0" fromTop="0" />
+      <File id="15A1D71E-78B2-4AFF-94CE-5FCD0E8B99C8/d:Views/f:Web.config" caret="1264" fromTop="18" />
+      <File id="15A1D71E-78B2-4AFF-94CE-5FCD0E8B99C8/d:Views/d:Shared/f:_Layout.cshtml" caret="0" fromTop="0" />
+      <File id="15A1D71E-78B2-4AFF-94CE-5FCD0E8B99C8/d:Views/d:Shared/f:_LoginPartial.cshtml" caret="0" fromTop="0" />
+      <File id="15A1D71E-78B2-4AFF-94CE-5FCD0E8B99C8/d:App_Start/f:RouteConfig.cs" caret="527" fromTop="17" />
+      <File id="F970D3FE-3CC7-4867-8B09-9E961F173CFE/d:App_Start/f:RouteConfig.cs" caret="373" fromTop="14" />
+      <File id="F970D3FE-3CC7-4867-8B09-9E961F173CFE/d:Views/f:Web.config" caret="1278" fromTop="0" />
+      <File id="15A1D71E-78B2-4AFF-94CE-5FCD0E8B99C8/d:Views/d:Shared/f:LoginLayout.Master" caret="1214" fromTop="22" />
+      <File id="F970D3FE-3CC7-4867-8B09-9E961F173CFE/d:Content/f:Site.css" caret="1853" fromTop="20" />
+      <File id="15A1D71E-78B2-4AFF-94CE-5FCD0E8B99C8/d:Scripts/d:Login/f:Login.js" caret="162" fromTop="4" />
+      <File id="F970D3FE-3CC7-4867-8B09-9E961F173CFE/f:Web.config" caret="1334" fromTop="22" />
+      <File id="F970D3FE-3CC7-4867-8B09-9E961F173CFE/d:Controllers/f:HomeController.cs" caret="1411" fromTop="21" />
+      <File id="F970D3FE-3CC7-4867-8B09-9E961F173CFE/d:Views/d:Home/f:Front.aspx" caret="0" fromTop="0" />
+      <File id="CD8AFB06-7AE4-42C3-B4CF-12C485272E31/f:UserService.cs" caret="615" fromTop="16" />
+      <File id="15A1D71E-78B2-4AFF-94CE-5FCD0E8B99C8/d:Models/f:UserModel.cs" caret="199" fromTop="9" />
+      <File id="15A1D71E-78B2-4AFF-94CE-5FCD0E8B99C8/d:Controllers/f:AccountController.cs" caret="1088" fromTop="15" />
+      <File id="15A1D71E-78B2-4AFF-94CE-5FCD0E8B99C8/d:Models/f:AccountModels.cs" caret="518" fromTop="18" />
+      <File id="97143597-13D1-4686-8274-97EEB4926E79/f:UserRepository.cs" caret="1006" fromTop="15" />
+      <File id="CD8AFB06-7AE4-42C3-B4CF-12C485272E31/f:MedicineService.cs" caret="999" fromTop="22" />
+      <File id="97143597-13D1-4686-8274-97EEB4926E79/f:MedicineRepository.cs" caret="5081" fromTop="19" />
+      <File id="7DB32CC2-4F7D-4E59-92C4-ECB191F4A6B2/f:Common.cs" caret="398" fromTop="17" />
+      <File id="15A1D71E-78B2-4AFF-94CE-5FCD0E8B99C8/d:Scripts/d:Medicine/f:Medicine.js" caret="1760" fromTop="17" />
+      <File id="15A1D71E-78B2-4AFF-94CE-5FCD0E8B99C8/d:Controllers/f:MedicalController.cs" caret="1933" fromTop="23" />
+      <File id="15A1D71E-78B2-4AFF-94CE-5FCD0E8B99C8/d:Scripts/f:common.js" caret="87" fromTop="0" />
+      <File id="15A1D71E-78B2-4AFF-94CE-5FCD0E8B99C8/d:Views/d:Shared/f:Site.Master" caret="1529" fromTop="27" />
+      <File id="F970D3FE-3CC7-4867-8B09-9E961F173CFE/d:Views/d:Shared/f:Site.Master" caret="0" fromTop="0" />
+      <File id="15A1D71E-78B2-4AFF-94CE-5FCD0E8B99C8/d:Content/f:Site.css" caret="305" fromTop="18" />
+      <File id="15A1D71E-78B2-4AFF-94CE-5FCD0E8B99C8/d:Content/f:Login.css" caret="1029" fromTop="16" />
+      <File id="15A1D71E-78B2-4AFF-94CE-5FCD0E8B99C8/d:Views/d:Account/f:Login.aspx" caret="902" fromTop="22" />
+      <File id="15A1D71E-78B2-4AFF-94CE-5FCD0E8B99C8/d:Views/d:Medical/f:Medical.aspx" caret="876" fromTop="19" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="97143597-13D1-4686-8274-97EEB4926E79/f:MedicineRepository.cs" caret="4923" fromTop="16" />
+      <File id="97143597-13D1-4686-8274-97EEB4926E79/f:MedicineRepository.cs" caret="4902" fromTop="15" />
+      <File id="15A1D71E-78B2-4AFF-94CE-5FCD0E8B99C8/d:Controllers/f:MedicalController.cs" caret="2150" fromTop="25" />
+      <File id="7DB32CC2-4F7D-4E59-92C4-ECB191F4A6B2/f:Common.cs" caret="398" fromTop="17" />
+      <File id="15A1D71E-78B2-4AFF-94CE-5FCD0E8B99C8/d:Scripts/d:Medicine/f:Medicine.js" caret="1941" fromTop="8" />
+      <File id="15A1D71E-78B2-4AFF-94CE-5FCD0E8B99C8/d:Scripts/d:Medicine/f:Medicine.js" caret="1317" fromTop="17" />
+      <File id="15A1D71E-78B2-4AFF-94CE-5FCD0E8B99C8/d:Scripts/d:Medicine/f:Medicine.js" caret="1760" fromTop="17" />
+      <File id="15A1D71E-78B2-4AFF-94CE-5FCD0E8B99C8/d:Views/d:Medical/f:Medical.aspx" caret="2077" fromTop="10" />
+      <File id="F970D3FE-3CC7-4867-8B09-9E961F173CFE/d:Views/d:Shared/f:Site.Master" caret="4251" fromTop="23" />
+      <File id="15A1D71E-78B2-4AFF-94CE-5FCD0E8B99C8/d:Views/d:Shared/f:Site.Master" caret="1529" fromTop="27" />
+      <File id="15A1D71E-78B2-4AFF-94CE-5FCD0E8B99C8/d:Content/f:Site.css" caret="4111" fromTop="8" />
+      <File id="15A1D71E-78B2-4AFF-94CE-5FCD0E8B99C8/d:Content/f:Site.css" caret="4111" fromTop="13" />
+      <File id="15A1D71E-78B2-4AFF-94CE-5FCD0E8B99C8/d:Content/f:Site.css" caret="4111" fromTop="19" />
+      <File id="15A1D71E-78B2-4AFF-94CE-5FCD0E8B99C8/d:Content/f:Site.css" caret="4111" fromTop="25" />
+      <File id="15A1D71E-78B2-4AFF-94CE-5FCD0E8B99C8/d:Content/f:Site.css" caret="4111" fromTop="31" />
+      <File id="15A1D71E-78B2-4AFF-94CE-5FCD0E8B99C8/d:Content/f:Site.css" caret="4111" fromTop="10" />
+      <File id="15A1D71E-78B2-4AFF-94CE-5FCD0E8B99C8/d:Content/f:Site.css" caret="4111" fromTop="14" />
+      <File id="15A1D71E-78B2-4AFF-94CE-5FCD0E8B99C8/d:Content/f:Site.css" caret="4111" fromTop="19" />
+      <File id="15A1D71E-78B2-4AFF-94CE-5FCD0E8B99C8/d:Content/f:Site.css" caret="4111" fromTop="2" />
+      <File id="15A1D71E-78B2-4AFF-94CE-5FCD0E8B99C8/d:Content/f:Site.css" caret="4111" fromTop="23" />
+      <File id="15A1D71E-78B2-4AFF-94CE-5FCD0E8B99C8/d:Content/f:Site.css" caret="4111" fromTop="16" />
+      <File id="15A1D71E-78B2-4AFF-94CE-5FCD0E8B99C8/d:Content/f:Site.css" caret="0" fromTop="0" />
+      <File id="15A1D71E-78B2-4AFF-94CE-5FCD0E8B99C8/d:Views/d:Medical/f:Medical.aspx" caret="6700" fromTop="7" />
+      <File id="15A1D71E-78B2-4AFF-94CE-5FCD0E8B99C8/d:Views/d:Medical/f:Medical.aspx" caret="2361" fromTop="8" />
+      <File id="15A1D71E-78B2-4AFF-94CE-5FCD0E8B99C8/d:Content/f:Site.css" caret="128" fromTop="8" />
+      <File id="15A1D71E-78B2-4AFF-94CE-5FCD0E8B99C8/d:Content/f:Site.css" caret="557" fromTop="34" />
+      <File id="15A1D71E-78B2-4AFF-94CE-5FCD0E8B99C8/d:Content/f:Site.css" caret="421" fromTop="29" />
+      <File id="15A1D71E-78B2-4AFF-94CE-5FCD0E8B99C8/d:Content/f:Site.css" caret="238" fromTop="15" />
+      <File id="15A1D71E-78B2-4AFF-94CE-5FCD0E8B99C8/d:Content/f:Site.css" caret="305" fromTop="19" />
+      <File id="15A1D71E-78B2-4AFF-94CE-5FCD0E8B99C8/d:Content/f:Site.css" caret="136" fromTop="9" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="ViewPage`1" priority="0" />
+      <Item value="Html" priority="2" />
+      <Item value="HttpPost" priority="5" />
+      <Item value="LoginModel`0" priority="0" />
+      <Item value="loginModel" priority="8" />
+      <Item value="Membership`0" priority="6" />
+      <Item value="membership" priority="3" />
+      <Item value="new" priority="14" />
+      <Item value="public" priority="10" />
+      <Item value="ModelState" priority="0" />
+      <Item value="else" priority="3" />
+      <Item value="return" priority="13" />
+      <Item value="View`0" priority="2" />
+      <Item value="prop" priority="5" />
+      <Item value="string" priority="5" />
+      <Item value="bool" priority="0" />
+      <Item value="if" priority="4" />
+      <Item value="Guid`0" priority="6" />
+      <Item value="DateTime`0" priority="8" />
+      <Item value="OMSDataContext`0" priority="2" />
+      <Item value="class" priority="0" />
+      <Item value="enum" priority="0" />
+      <Item value="onlineMedicalStoreDataAccess" priority="3" />
+      <Item value="var" priority="1" />
+      <Item value="from" priority="2" />
+      <Item value="where" priority="3" />
+      <Item value="user" priority="6" />
+      <Item value="select" priority="2" />
+      <Item value="userToUnlock" priority="1" />
+      <Item value="null" priority="1" />
+      <Item value="false" priority="1" />
+      <Item value="userId" priority="4" />
+      <Item value="GeneralDatabaseResponse`0" priority="3" />
+      <Item value="generalDatabaseResponse" priority="2" />
+      <Item value="userRepository" priority="1" />
+      <Item value="UserRepository" priority="0" />
+      <Item value="join" priority="0" />
+      <Item value="aspnet_User`0" priority="0" />
+      <Item value="on" priority="0" />
+      <Item value="userName" priority="1" />
+      <Item value="ActionResult`0" priority="2" />
+      <Item value="userService" priority="2" />
+      <Item value="UserService" priority="0" />
+      <Item value="MasterPageFile" priority="1" />
+      <Item value="int" priority="2" />
+      <Item value="Redirect`0" priority="0" />
+      <Item value="RedirectToAction`0" priority="0" />
+      <Item value="Session_Start`0" priority="0" />
+      <Item value="Session" priority="2" />
+      <Item value="MedicalModel`0" priority="6" />
+      <Item value="medicalModel" priority="2" />
+      <Item value="List" priority="2" />
+      <Item value="Medicine`0" priority="5" />
+      <Item value="OMS" priority="3" />
+      <Item value="Core" priority="2" />
+      <Item value="omsDataContext" priority="5" />
+      <Item value="medicines" priority="25" />
+      <Item value="MedicineId" priority="0" />
+      <Item value="CompanyName" priority="0" />
+      <Item value="CreatedAt" priority="0" />
+      <Item value="CreatedBy" priority="0" />
+      <Item value="GenericName" priority="0" />
+      <Item value="IsDeleted" priority="0" />
+      <Item value="IsPrescriptionRequired" priority="0" />
+      <Item value="MedicineName" priority="0" />
+      <Item value="MedicineRepository`0" priority="0" />
+      <Item value="medicalModels" priority="5" />
+      <Item value="medicineService" priority="2" />
+      <Item value="MedicineService" priority="0" />
+      <Item value="MedicalModel" priority="1" />
+      <Item value="List&lt;MedicalModel&gt;" priority="0" />
+      <Item value="foreach" priority="0" />
+      <Item value="medicine" priority="4" />
+      <Item value="for" priority="0" />
+      <Item value="Model" priority="1" />
+      <Item value="WebGrid`0" priority="0" />
+      <Item value="Admin" priority="1" />
+      <Item value="Models" priority="0" />
+      <Item value="OMSen_EN`0" priority="0" />
+      <Item value="ToBeDisplayedInFrontEnd" priority="0" />
+      <Item value="JsonResult`0" priority="1" />
+      <Item value="data" priority="14" />
+      <Item value="as" priority="0" />
+      <Item value="Guid" priority="0" />
+      <Item value="databaseResponse" priority="4" />
+      <Item value="medicineRepository" priority="0" />
+      <Item value="Medicines" priority="0" />
+      <Item value="Medicines`0" priority="0" />
+      <Item value="Medicine" priority="1" />
+      <Item value="med" priority="1" />
+      <Item value="Json`0" priority="0" />
+      <Item value="Data" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.HtmlHelper`1">
+      <Item value="Label`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.Security.Membership">
+      <Item value="ApplicationName" priority="0" />
+      <Item value="CreateUser`0" priority="0" />
+      <Item value="ValidateUser`0" priority="0" />
+      <Item value="GetUser`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OMS.Admin.Models.LoginModel">
+      <Item value="UserName" priority="1" />
+      <Item value="Password" priority="0" />
+      <Item value="CustomErrorMsg" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.ModelStateDictionary">
+      <Item value="IsValid" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OMS.Data.OMSDataContext">
+      <Item value="aspnet_Memberships" priority="1" />
+      <Item value="SubmitChanges`0" priority="1" />
+      <Item value="aspnet_Users" priority="0" />
+      <Item value="Medicines" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OMS.Data.aspnet_Membership">
+      <Item value="UserId" priority="2" />
+      <Item value="IsLockedOut" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IQueryable`1">
+      <Item value="FirstOrDefault`1" priority="2" />
+      <Item value="ToList`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@OMS.Core.GeneralDatabaseResponse">
+      <Item value="UnsuccessfullUpdate" priority="2" />
+      <Item value="SuccessfullUpdate" priority="1" />
+      <Item value="UnsuccessfullInset" priority="1" />
+      <Item value="SuccessfullInsert" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OMS.Data.UserRepository">
+      <Item value="UnlockUser`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OMS.Data.aspnet_User">
+      <Item value="UserId" priority="0" />
+      <Item value="UserName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OMS.BLL.UserService">
+      <Item value="UnlockUser`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.SessionState.HttpSessionState">
+      <Item value="SessionID" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OMS.Data.Medicine">
+      <Item value="IsDeleted" priority="2" />
+      <Item value="Id" priority="2" />
+      <Item value="CompanyName" priority="1" />
+      <Item value="CreatedAt" priority="1" />
+      <Item value="CreatedBy" priority="1" />
+      <Item value="GenericName" priority="1" />
+      <Item value="IsPrescriptionRequired" priority="1" />
+      <Item value="MedicineName" priority="1" />
+      <Item value="ToBeDisplayedInFrontEnd" priority="1" />
+      <Item value="UpdatedAt" priority="0" />
+      <Item value="UpdatedBy" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OMS.BLL.MedicineService">
+      <Item value="GetAllMedicines`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="0" />
+      <Item value="Where`1" priority="0" />
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@OMS.Admin.OMSen_EN">
+      <Item value="resOnlineMedicalStore" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OMS.Admin.Models.MedicalModel">
+      <Item value="MedicineId" priority="2" />
+      <Item value="MedicineName" priority="0" />
+      <Item value="GenericName" priority="0" />
+      <Item value="IsPrescriptionRequired" priority="0" />
+      <Item value="ToBeDisplayedInFrontEnd" priority="0" />
+      <Item value="CreatedAt" priority="1" />
+      <Item value="UpdatedAt" priority="1" />
+      <Item value="UpdatedBy" priority="0" />
+      <Item value="CompanyName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OMS.Core.Medicine">
+      <Item value="MedicineId" priority="2" />
+      <Item value="CompanyName" priority="0" />
+      <Item value="GenericName" priority="0" />
+      <Item value="IsDeleted" priority="1" />
+      <Item value="MedicineName" priority="0" />
+      <Item value="ToBeDisplayedInFrontEnd" priority="0" />
+      <Item value="CreatedBy" priority="1" />
+      <Item value="UpdatedBy" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ToList`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Security.MembershipUser">
+      <Item value="ProviderUserKey" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Linq.Table`1">
+      <Item value="InsertAllOnSubmit`1" priority="0" />
+      <Item value="InsertOnSubmit`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

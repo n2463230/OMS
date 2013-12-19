@@ -1,0 +1,9 @@
+E:\Nisarg Shah\Projects\Code\OMS.Admin\OMS.BLL\bin\Debug\OMS.BLL.dll
+E:\Nisarg Shah\Projects\Code\OMS.Admin\OMS.BLL\bin\Debug\OMS.BLL.pdb
+E:\Nisarg Shah\Projects\Code\OMS.Admin\OMS.BLL\obj\Debug\OMS.BLL.dll
+E:\Nisarg Shah\Projects\Code\OMS.Admin\OMS.BLL\obj\Debug\OMS.BLL.pdb
+E:\Nisarg Shah\Projects\Code\OMS.Admin\OMS.BLL\bin\Debug\OMS.Core.dll
+E:\Nisarg Shah\Projects\Code\OMS.Admin\OMS.BLL\bin\Debug\OMS.Data.dll
+E:\Nisarg Shah\Projects\Code\OMS.Admin\OMS.BLL\bin\Debug\OMS.Core.pdb
+E:\Nisarg Shah\Projects\Code\OMS.Admin\OMS.BLL\bin\Debug\OMS.Data.pdb
+E:\Nisarg Shah\Projects\Code\OMS.Admin\OMS.BLL\obj\Debug\OMS.BLL.csprojResolveAssemblyReference.cache

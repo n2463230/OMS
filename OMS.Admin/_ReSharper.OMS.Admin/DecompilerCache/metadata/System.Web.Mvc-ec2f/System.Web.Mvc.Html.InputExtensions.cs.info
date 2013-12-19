@@ -1,0 +1,51 @@
+R# version: 5.0.1659.36
+assembly System.Web.Mvc, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+  file E:\Nisarg Shah\Projects\Code\OMS.Admin\packages\Microsoft.AspNet.Mvc.4.0.20710.0\lib\net40\System.Web.Mvc.dll mtime 18-10-2013 04:12:28
+  file E:\Nisarg Shah\Projects\Code\OMS.Admin\OMS.Admin\Bin\System.Web.Mvc.dll mtime 18-10-2013 04:12:28
+  file E:\Nisarg Shah\Projects\Code\OMS.Store\Bin\System.Web.Mvc.dll mtime 18-10-2013 04:12:28
+referenced assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorlib.dll mtime 21-04-2013 02:31:12
+  file C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\mscorlib.dll mtime 18-03-2010 14:01:26
+referenced assembly System.ComponentModel.DataAnnotations, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+  file C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.ComponentModel.DataAnnotations.dll mtime 18-03-2010 14:01:26
+  file C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.ComponentModel.DataAnnotations.dll mtime 08-07-2012 19:10:10
+referenced assembly System.Web.Razor, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+  file E:\Nisarg Shah\Projects\Code\OMS.Admin\packages\Microsoft.AspNet.Razor.2.0.20710.0\lib\net40\System.Web.Razor.dll mtime 18-10-2013 04:12:27
+  file E:\Nisarg Shah\Projects\Code\OMS.Admin\OMS.Admin\Bin\System.Web.Razor.dll mtime 18-10-2013 04:12:27
+  file E:\Nisarg Shah\Projects\Code\OMS.Store\Bin\System.Web.Razor.dll mtime 18-10-2013 04:12:27
+referenced assembly System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll mtime 18-03-2010 14:01:26
+  file C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Core.dll mtime 08-07-2012 19:10:10
+referenced assembly System.Web.WebPages.Razor, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+  file E:\Nisarg Shah\Projects\Code\OMS.Admin\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.Razor.dll mtime 18-10-2013 04:12:27
+  file E:\Nisarg Shah\Projects\Code\OMS.Admin\OMS.Admin\Bin\System.Web.WebPages.Razor.dll mtime 18-10-2013 04:12:27
+  file E:\Nisarg Shah\Projects\Code\OMS.Store\Bin\System.Web.WebPages.Razor.dll mtime 18-10-2013 04:12:27
+referenced assembly System.Web.WebPages, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+  file E:\Nisarg Shah\Projects\Code\OMS.Admin\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.dll mtime 18-10-2013 04:12:27
+  file E:\Nisarg Shah\Projects\Code\OMS.Admin\OMS.Admin\Bin\System.Web.WebPages.dll mtime 18-10-2013 04:12:27
+  file E:\Nisarg Shah\Projects\Code\OMS.Store\Bin\System.Web.WebPages.dll mtime 18-10-2013 04:12:27
+referenced assembly System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  file C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Web.dll mtime 18-03-2010 14:01:26
+  file C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Web.dll mtime 09-07-2013 08:15:48
+referenced assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll mtime 18-03-2010 14:01:26
+  file C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.dll mtime 21-02-2013 19:18:22
+referenced assembly System.Runtime.Caching, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  file C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Runtime.Caching.dll mtime 08-07-2012 19:10:10
+referenced assembly Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+  file E:\Nisarg Shah\Projects\Code\OMS.Admin\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll mtime 18-10-2013 04:12:26
+  file E:\Nisarg Shah\Projects\Code\OMS.Admin\OMS.Admin\Bin\Microsoft.Web.Infrastructure.dll mtime 18-10-2013 04:12:26
+  file E:\Nisarg Shah\Projects\Code\OMS.Store\Bin\Microsoft.Web.Infrastructure.dll mtime 18-10-2013 04:12:26
+referenced assembly System.Web.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+  file C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Web.Extensions.dll mtime 18-03-2010 14:01:26
+  file C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Web.Extensions.dll mtime 08-07-2012 19:10:10
+referenced assembly System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  file C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Configuration.dll mtime 18-03-2010 14:01:26
+  file C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Configuration.dll mtime 22-07-2013 20:16:54
+referenced assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll mtime 18-03-2010 14:01:26
+  file C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Xml.dll mtime 22-07-2013 20:16:54
+referenced assembly System.Data.Linq, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.Linq.dll mtime 18-03-2010 14:01:26
+referenced assembly System.Data.Entity, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.Entity.dll mtime 18-03-2010 14:01:26
